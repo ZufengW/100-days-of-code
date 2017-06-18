@@ -17,6 +17,19 @@
 **Today's Progress**: Finished Unit 5 (Intro to CSS) of [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/content).
 
 **Thoughts:** This is partly revision.
+
+### Day 3: 18 June, 2017
+
+**Today's Progress**: Web Developer Bootcamp 49-56 (started Intermediate CSS)
+
+**Thoughts:** Previously, I didn't realise the significance of the colours in Chrome's inspector. 
+* Content - blue
+* Padding - green
+*  Margin - orange
+
+I like how this course makes note of things such as this.
+
+I should try spending more time coding per day. I have more free time at the moment.
 <!---
 Is this
 
