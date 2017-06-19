@@ -30,6 +30,13 @@
 I like how this course makes note of things such as this.
 
 I should try spending more time coding per day. I have more free time at the moment.
+
+### Day 4: 19 June, 2017
+
+**Today's Progress**: Web Developer Bootcamp: Finished section 6 (Intermediate CSS)
+
+**Thoughts:** Making the image gallery and blog page was a nice exercise. Looking forward to making it more functional in the future when there's back end. (Same with the tic tac toe + JavaScript)
+
 <!---
 Is this
 
