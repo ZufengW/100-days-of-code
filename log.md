@@ -6,19 +6,19 @@
 
 **Thoughts:** I want to make consistent progress on this course.
 
-### Day 1: 16 June, 2017
+### Day 1: 16 June
 
 **Today's Progress**: Did a few (super-easy) problems on UVa. Web Developer Bootcamp: Videos 44 - 45 (CSS selectors)
 
 **Thoughts:** I should do this earlier in the day.
 
-### Day 2: 17 June, 2017
+### Day 2: 17 June
 
 **Today's Progress**: Finished Unit 5 (Intro to CSS) of [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/content).
 
 **Thoughts:** This is partly revision.
 
-### Day 3: 18 June, 2017
+### Day 3: 18 June
 
 **Today's Progress**: Web Developer Bootcamp 49-56 (started Intermediate CSS)
 
@@ -31,11 +31,17 @@ I like how this course makes note of things such as this.
 
 I should try spending more time coding per day. I have more free time at the moment.
 
-### Day 4: 19 June, 2017
+### Day 4: 19 June
 
 **Today's Progress**: Web Developer Bootcamp: Finished section 6 (Intermediate CSS)
 
 **Thoughts:** Making the image gallery and blog page was a nice exercise. Looking forward to making it more functional in the future when there's back end. (Same with the tic tac toe + JavaScript)
+
+### Day 5: 20 June
+
+**Today's Progress**: Web Developer Bootcamp: Started section 7 (Bootstrap)
+
+**Thoughts:** I actually did Free Code Camp a while back. Then I stopped (maybe around weather API), and I haven't returned yet. Right now I'm more interested in doing the (above mentioned) Web Developer Bootcamp. Either way, to complete an online course properly it is ideal to make consistent progress on a regular basis. This 100 days of code helps with that.
 
 <!---
 Is this
