@@ -43,6 +43,13 @@ I should try spending more time coding per day. I have more free time at the mom
 
 **Thoughts:** I actually did Free Code Camp a while back. Then I stopped (maybe around weather API), and I haven't returned yet. Right now I'm more interested in doing the (above mentioned) Web Developer Bootcamp. Either way, to complete an online course properly it is ideal to make consistent progress on a regular basis. This 100 days of code helps with that.
 
+### Day 6: 21 June
+
+**Today's Progress**: Web Developer Bootcamp: Doing section 7 (Bootstrap -- nav bars, grid system)
+
+**Thoughts:** Steady progress.
+
+
 <!---
 Is this
 
