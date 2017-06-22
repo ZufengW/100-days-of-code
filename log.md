@@ -49,6 +49,12 @@ I should try spending more time coding per day. I have more free time at the mom
 
 **Thoughts:** Steady progress.
 
+### Day 7: 22 June
+
+**Today's Progress**: Web Developer Bootcamp: Doing section 7 (Bootstrap -- Image gallery)
+
+**Thoughts:** Eventually I should use this for projects not in the course.
+
 
 <!---
 Is this
