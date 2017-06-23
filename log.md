@@ -55,6 +55,11 @@ I should try spending more time coding per day. I have more free time at the mom
 
 **Thoughts:** Eventually I should use this for projects not in the course.
 
+### Day 8: 23 June
+
+**Today's Progress**: Web Developer Bootcamp: Bootstrap -- Started Startup Landing Page.
+
+**Thoughts:** Got home particularly late today. Started this at 11:40pm. I coded for less than an hour today, but I'm pretty sleepy.
 
 <!---
 Is this
