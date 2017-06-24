@@ -59,7 +59,14 @@ I should try spending more time coding per day. I have more free time at the mom
 
 **Today's Progress**: Web Developer Bootcamp: Bootstrap -- Started Startup Landing Page.
 
-**Thoughts:** Got home particularly late today. Started this at 11:40pm. I coded for less than an hour today, but I'm pretty sleepy.
+**Thoughts:** Got home particularly late today. Started this at 11:40pm. I coded for less than an hour today, but I'm pretty sleepy. Edit: ended up doing a bit more after writing this.
+
+### Day 9: 24 June
+
+**Today's Progress**: Web Developer Bootcamp: Finished section 7 (Bootstrap). https://codepen.io/ZufengW/full/RgZmQd/
+Started section 8: Intro to JavaScript.
+
+**Thoughts:** Looking forward to making more functional things.
 
 <!---
 Is this
