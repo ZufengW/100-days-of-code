@@ -68,6 +68,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** Looking forward to making more functional things.
 
+### Day 10: 25 June
+
+**Today's Progress**: Web Developer Bootcamp: Doing section 8 (Intro to JavaScript)
+
+**Thoughts:** This section is easy.
+
 <!---
 Is this
 
