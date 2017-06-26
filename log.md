@@ -74,6 +74,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** This section is easy.
 
+### Day 11: 26 June
+
+**Today's Progress**: Web Developer Bootcamp: Doing section 9 (JS basics: control flow)
+
+**Thoughts:** I should do this earlier in the day.
+
 <!---
 Is this
 
