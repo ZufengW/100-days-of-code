@@ -80,6 +80,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** I should do this earlier in the day.
 
+### Day 12: 27 June
+
+**Today's Progress**: Web Developer Bootcamp: Finished section 10 (JS basics: control flow)
+
+**Thoughts:** I did this earlier than usual -- finished at 10:30pm. It's better this way. Avoid studying after 11pm.
+
 <!---
 Is this
 
