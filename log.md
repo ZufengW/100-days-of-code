@@ -86,6 +86,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** I did this earlier than usual -- finished at 10:30pm. It's better this way. Avoid studying after 11pm.
 
+### Day 13: 28 June
+
+**Today's Progress**: Web Developer Bootcamp: Did section 10 (JS basics: functions)
+
+**Thoughts:** Partly revision, but also had some stuff that I wasn't fully aware of.
+
 <!---
 Is this
 
