@@ -98,6 +98,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** Not that hard. Partly revision since I've encountered arrays in many places, but there were new things.
 
+### Day 15: 30 June
+
+**Today's Progress**: Web Developer Bootcamp: Finished section 11. Started section 12 (JS basics: objects)
+
+**Thoughts:** Less familiar than arrays and functions.
+
 <!---
 Is this
 
