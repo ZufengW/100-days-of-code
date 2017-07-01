@@ -104,6 +104,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** Less familiar than arrays and functions.
 
+### Day 16: 01 July
+
+**Today's Progress**: Web Developer Bootcamp: Doing section 12. Didn't do as much today due to tiredness (due to staying up til 12:20 am)
+
+**Thoughts:** It would be better if I planned ahead and did the coding earlier on days such as this to avoid staying up too late.
+
 <!---
 Is this
 
