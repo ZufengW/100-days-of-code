@@ -110,6 +110,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** It would be better if I planned ahead and did the coding earlier on days such as this to avoid staying up too late.
 
+### Day 17: 02 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished section 12. Doing section 13 (DOM manipulation)
+
+**Thoughts:** It's nice that this topic builds upon the objects topic.
+
 <!---
 Is this
 
