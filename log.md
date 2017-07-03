@@ -116,6 +116,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** It's nice that this topic builds upon the objects topic.
 
+### Day 18: 03 July
+
+**Today's Progress**: Web Developer Bootcamp: Doing section 13 (DOM manipulation)
+
+**Thoughts:** I didn't spend as much today due to some other things that I had to do this evening. But since I've done this ~19 days in a row, it's more like a habit now. It would feel strange not to do it.
+
 <!---
 Is this
 
