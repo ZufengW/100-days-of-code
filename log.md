@@ -122,6 +122,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** I didn't spend as much today due to some other things that I had to do this evening. But since I've done this ~19 days in a row, it's more like a habit now. It would feel strange not to do it.
 
+### Day 19: 04 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished section 13 (DOM manipulation). Started section 14 (advanced DOM manipulation)
+
+**Thoughts:** Previously, I was vaguely aware of little bits here and there, but following this course makes it more cohesive.
+
 <!---
 Is this
 
