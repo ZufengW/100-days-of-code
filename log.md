@@ -128,6 +128,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** Previously, I was vaguely aware of little bits here and there, but following this course makes it more cohesive.
 
+### Day 20: 05 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished section 14 (advanced DOM manipulation)
+
+**Thoughts:** Each unit adds more complexity. The next section (colour game project) looks interesting. It's functional and looks much more polished than the usual examples and coding tasks. I'm also looking forward to doing backend eventually.
+
 <!---
 Is this
 
