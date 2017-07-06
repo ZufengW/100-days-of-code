@@ -134,6 +134,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** Each unit adds more complexity. The next section (colour game project) looks interesting. It's functional and looks much more polished than the usual examples and coding tasks. I'm also looking forward to doing backend eventually.
 
+### Day 21: 06 July
+
+**Today's Progress**: Web Developer Bootcamp: Working on section 15 (Colour Game Project)
+
+**Thoughts:** This project is longer than all the previous ones in the course. This makes it more difficult to structure the building process, but Colt explained it well.
+
 <!---
 Is this
 
