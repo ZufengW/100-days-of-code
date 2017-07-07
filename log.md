@@ -140,6 +140,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** This project is longer than all the previous ones in the course. This makes it more difficult to structure the building process, but Colt explained it well.
 
+### Day 22: 07 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished unit 15 (Colour Game Project) https://codepen.io/ZufengW/full/gRdMzR
+
+**Thoughts:** A project like this is good for tying together different ideas from earlier in the course. It doesn't look too good on phone though -- the button row doesn't fit on narrow screens. I also add an extra feature: streak counter. 
+
 <!---
 Is this
 
