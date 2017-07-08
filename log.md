@@ -146,6 +146,13 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** A project like this is good for tying together different ideas from earlier in the course. It doesn't look too good on phone though -- the button row doesn't fit on narrow screens. I also add an extra feature: streak counter. 
 
+### Day 23: 08 July
+
+**Today's Progress**: Web Developer Bootcamp: Doing unit 16 (Intro to jQuery) 
+
+**Thoughts:** I think it's good that this topic is after all the DOM manipulation because it makes us less dependent on jQuery. I also like how Colt talked about both reasons for using jQuery and [reasons for not using jQuery](http://youmightnotneedjquery.com/). 
+
+
 <!---
 Is this
 
