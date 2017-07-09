@@ -152,6 +152,12 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** I think it's good that this topic is after all the DOM manipulation because it makes us less dependent on jQuery. I also like how Colt talked about both reasons for using jQuery and [reasons for not using jQuery](http://youmightnotneedjquery.com/). 
 
+### Day 24: 09 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished unit 16 (Intro to jQuery). Doing unit 17 (Advanced jQuery)
+
+**Thoughts:** These methods are similar to the plain JS methods.
+
 
 <!---
 Is this
