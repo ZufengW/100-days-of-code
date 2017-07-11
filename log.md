@@ -158,7 +158,6 @@ Started section 8: Intro to JavaScript.
 
 **Thoughts:** These methods are similar to the plain JS methods.
 
-
 ### Day 25: 10 July
 
 **Today's Progress**: Web Developer Bootcamp: Finished unit 17 (Advanced jQuery). Doing unit 18 (jQuery Todo app). Also made a [placeholder text generator](https://codepen.io/ZufengW/full/ZymLbJ/) for the heck of it.
@@ -168,7 +167,11 @@ Next steps for a Todo app could include adding tags and descriptions to todos. M
 
 The Menu Ipsum thing I made has a lot of adjectives and modifiers relating to food, but not many nouns. That's the point.
 
+### Day 26: 11 July
 
+**Today's Progress**: Web Developer Bootcamp: Continued unit 18 (jQuery Todo app).
+
+**Thoughts:** I'll finish this tomorrow.
 <!---
 Is this
 
