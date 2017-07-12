@@ -172,6 +172,14 @@ The Menu Ipsum thing I made has a lot of adjectives and modifiers relating to fo
 **Today's Progress**: Web Developer Bootcamp: Continued unit 18 (jQuery Todo app).
 
 **Thoughts:** I'll finish this tomorrow.
+
+### Day 27: 12 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished unit 18 (jQuery Todo project) and finished unit 20 (Backend Basics). 
+https://codepen.io/ZufengW/full/qjLRyQ
+Skipped 19 (Patatap Clone) since it is optional, but I might do it later.
+
+**Thoughts:** Backend is new territory. Looking forward to see where this goes. [c9](https://c9.io/zufeng) looks great. Easy to get started and generous free plan.
 <!---
 Is this
 
