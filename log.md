@@ -180,6 +180,13 @@ https://codepen.io/ZufengW/full/qjLRyQ
 Skipped 19 (Patatap Clone) since it is optional, but I might do it later.
 
 **Thoughts:** Backend is new territory. Looking forward to see where this goes. [c9](https://c9.io/zufeng) looks great. Easy to get started and generous free plan.
+
+### Day 28: 13 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished unit 21 (Command Line). 
+
+**Thoughts:** It would have been nice if I had known this stuff earlier. The [link(s)](https://www.davidbaumgold.com/tutorials/command-line/) that Colt provided was useful.
+
 <!---
 Is this
 
