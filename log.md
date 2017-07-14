@@ -187,6 +187,12 @@ Skipped 19 (Patatap Clone) since it is optional, but I might do it later.
 
 **Thoughts:** It would have been nice if I had known this stuff earlier. The [link(s)](https://www.davidbaumgold.com/tutorials/command-line/) that Colt provided was useful.
 
+### Day 29: 14 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished unit 22 (Node JS). 
+
+**Thoughts:** A new topic covered in this section is [NPM](https://www.npmjs.com). It certainly made it easier to use packages.
+
 <!---
 Is this
 
