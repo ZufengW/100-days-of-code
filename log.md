@@ -193,6 +193,13 @@ Skipped 19 (Patatap Clone) since it is optional, but I might do it later.
 
 **Thoughts:** A new topic covered in this section is [NPM](https://www.npmjs.com). It certainly made it easier to use packages.
 
+### Day 30: 15 July
+
+**Today's Progress**: Web Developer Bootcamp: Started unit 23 (Server side frameworks). 
+Started using express framework.
+
+**Thoughts:** Bit tired -- doing this late in the day. Will resume tomorrow.
+
 <!---
 Is this
 
