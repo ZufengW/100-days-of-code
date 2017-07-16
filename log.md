@@ -200,6 +200,13 @@ Started using express framework.
 
 **Thoughts:** Bit tired -- doing this late in the day. Will resume tomorrow.
 
+### Day 31: 16 July
+
+**Today's Progress**: Web Developer Bootcamp: Continued unit 23 (Server side frameworks). 
+Things about package.json
+
+**Thoughts:** Again, doing this quite late after busy day. Will resume tomorrow.
+
 <!---
 Is this
 
