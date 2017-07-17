@@ -207,6 +207,14 @@ Things about package.json
 
 **Thoughts:** Again, doing this quite late after busy day. Will resume tomorrow.
 
+I also participated the [weekly contest on Leetcode](https://leetcode.com/contest/leetcode-weekly-contest-41/) this morning, during which I answered the first two questions. Apart from this paragraph, I haven't been writing about this sort of (competitive programming) stuff in the log because I'm not sure if it should count for 100DaysOfCode, but it's still coding.
+
+### Day 32: 17 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished unit 23. Doing unit 24 (Intermediate express)
+
+**Thoughts:** I probably spent more time on the course today than the past two days since I had less other stuff scheduled today. 
+
 <!---
 Is this
 
