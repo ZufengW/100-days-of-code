@@ -215,6 +215,14 @@ I also participated the [weekly contest on Leetcode](https://leetcode.com/contes
 
 **Thoughts:** I probably spent more time on the course today than the past two days since I had less other stuff scheduled today. 
 
+### Day 33: 18 July
+
+**Today's Progress**: Web Developer Bootcamp: Finished unit 24 (Intermediate express). EJS and post requests.
+
+I also experimented with a JS library called [vis](http://visjs.org) to visualise a graph of university subject prerequisites. It would be nice if I could make something that fetches data and generates those graphs automatically, but that would be tricky. This idea is something to keep in mind.
+
+**Thoughts:** There's still a long way to go to finish this course. But the consistency of doing a bit each day will get me there eventually.
+
 <!---
 Is this
 
