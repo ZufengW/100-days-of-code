@@ -223,6 +223,18 @@ I also experimented with a JS library called [vis](http://visjs.org) to visualis
 
 **Thoughts:** There's still a long way to go to finish this course. But the consistency of doing a bit each day will get me there eventually.
 
+### Day 34: 19 July
+
+**Today's Progress**: Web Dev Bootcamp: Started unit 25 (working with APIs).
+
+I continued experimenting with the graph viewer. I also wrote some Python to scrape data from the [website](http://handbook.unimelb.edu.au/). Given a subject code or list of subject codes, it returns a list of nodes and a list of edges in the format suitable for the JS file.
+Parsing the text correctly is tricky due to the inconsistencies in text structure. 
+See https://codepen.io/ZufengW/full/QgXbag/ for graph of an output.
+
+**Thoughts:** Things will get more busy starting next week.
+
+What if that handbook had an API? That could make things easier.
+
 <!---
 Is this
 
