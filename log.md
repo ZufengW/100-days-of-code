@@ -235,6 +235,12 @@ See https://codepen.io/ZufengW/full/QgXbag/ for graph of an output.
 
 What if that handbook had an API? That could make things easier.
 
+### Day 35: 20 July
+
+**Today's Progress**: Web Dev Bootcamp: Finished unit 25 (working with APIs).
+
+**Thoughts:** I stayed up a little later to finish it.
+
 <!---
 Is this
 
