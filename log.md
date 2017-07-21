@@ -241,6 +241,13 @@ What if that handbook had an API? That could make things easier.
 
 **Thoughts:** I stayed up a little later to finish it.
 
+### Day 36: 21 July
+
+**Today's Progress**: Web Dev Bootcamp: Started unit 26 (YelpCamp: Basics)
+
+**Thoughts:** It'll be a substantial app with front end and back end. Also, it uses Bootstrap, which I haven't touched for a while. This retrieval will help me to remember it.
+
+
 <!---
 Is this
 
