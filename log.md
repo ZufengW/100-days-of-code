@@ -247,6 +247,13 @@ What if that handbook had an API? That could make things easier.
 
 **Thoughts:** It'll be a substantial app with front end and back end. Also, it uses Bootstrap, which I haven't touched for a while. This retrieval will help me to remember it.
 
+### Day 37: 22 July
+
+**Today's Progress**: Web Dev Bootcamp: Finished unit 26 (YelpCamp: Basics)
+
+**Thoughts:** I stayed up fairly late to finish this.
+Notably, some of the Bootstrap-related problems that Colt mentioned did not happen to me. Maybe the newer versions of Bootstrap changed things.
+
 
 <!---
 Is this
