@@ -254,6 +254,14 @@ What if that handbook had an API? That could make things easier.
 **Thoughts:** I stayed up fairly late to finish this.
 Notably, some of the Bootstrap-related problems that Colt mentioned did not happen to me. Maybe the newer versions of Bootstrap changed things.
 
+### Day 38: 23 July
+
+**Today's Progress**: Web Dev Bootcamp: Started unit 27 (Databases)
+
+Also did Leetcode comp again.
+
+**Thoughts:** Now using [MongoDB](https://www.mongodb.com). I wonder if it's still as popular as Colt said it was.
+
 
 <!---
 Is this
