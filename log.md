@@ -263,6 +263,13 @@ Also did Leetcode comp again.
 **Thoughts:** Now using [MongoDB](https://www.mongodb.com). I wonder if it's still as popular as Colt said it was.
 
 
+### Day 39: 24 July
+
+**Today's Progress**: Web Dev Bootcamp: Continued unit 27 (Databases)
+
+**Thoughts:** I'll finish this tomorrow.
+
+
 <!---
 Is this
 
