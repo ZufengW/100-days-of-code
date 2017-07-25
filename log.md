@@ -269,6 +269,12 @@ Also did Leetcode comp again.
 
 **Thoughts:** I'll finish this tomorrow.
 
+### Day 40: 25 July
+
+**Today's Progress**: Web Dev Bootcamp: Finished unit 27 (Databases). Started unit 28 (adding Mongoose to YelpCamp)
+
+**Thoughts:** I'll finish this tomorrow.
+
 
 <!---
 Is this
