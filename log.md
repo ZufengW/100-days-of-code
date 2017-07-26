@@ -275,6 +275,13 @@ Also did Leetcode comp again.
 
 **Thoughts:** I'll finish this tomorrow.
 
+### Day 41: 26 July
+
+**Today's Progress**: Web Dev Bootcamp: Finished unit 28 (adding Mongoose to YelpCamp)
+
+**Thoughts:** Finally, an app with data persistence. It retains the campgrounds from previous sessions.
+I stayed up pretty late finishing this.
+
 
 <!---
 Is this
