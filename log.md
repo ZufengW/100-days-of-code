@@ -282,6 +282,14 @@ Also did Leetcode comp again.
 **Thoughts:** Finally, an app with data persistence. It retains the campgrounds from previous sessions.
 I stayed up pretty late finishing this.
 
+### Day 42: 27 July
+
+**Today's Progress**: Web Dev Bootcamp: Started unit 29 (RESTful routing)
+
+**Thoughts:** This is a project that features all seven RESTful routes. 
+
+Now that University has started again, things are more busy. I'm also doing three computing subjects at the moment.
+
 
 <!---
 Is this
