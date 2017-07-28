@@ -290,6 +290,12 @@ I stayed up pretty late finishing this.
 
 Now that University has started again, things are more busy. I'm also doing three computing subjects at the moment.
 
+### Day 43: 28 July
+
+**Today's Progress**: Make a [Hackerrank account](https://www.hackerrank.com/zufengw) and did some Python practice. Did a small amount of web dev bootcamp.
+
+**Thoughts:** I'll do more tomorrow.
+
 
 <!---
 Is this
