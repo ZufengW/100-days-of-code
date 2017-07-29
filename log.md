@@ -292,9 +292,15 @@ Now that University has started again, things are more busy. I'm also doing thre
 
 ### Day 43: 28 July
 
-**Today's Progress**: Make a [Hackerrank account](https://www.hackerrank.com/zufengw) and did some Python practice. Did a small amount of web dev bootcamp.
+**Today's Progress**: Made a [Hackerrank account](https://www.hackerrank.com/zufengw) and did some Python practice. Did a small amount of web dev bootcamp.
 
 **Thoughts:** I'll do more tomorrow.
+
+### Day 44: 29 July
+
+**Today's Progress**: Did more Python practice. Continued Web dev bootcamp.
+
+**Thoughts:** [Semantic UI](https://semantic-ui.com/) looks interesting. It's good to have some variety instead of just Bootstrap.
 
 
 <!---
