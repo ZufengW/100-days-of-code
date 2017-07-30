@@ -302,6 +302,12 @@ Now that University has started again, things are more busy. I'm also doing thre
 
 **Thoughts:** [Semantic UI](https://semantic-ui.com/) looks interesting. It's good to have some variety instead of just Bootstrap.
 
+### Day 45: 30 July
+
+**Today's Progress**: More Python problems. Continued Web dev bootcamp (unit 29: RESTful routing).
+
+**Thoughts:** Slow progress on web dev bootcamp. But doing a little bit each day is definitely better than not doing it at all.
+
 
 <!---
 Is this
