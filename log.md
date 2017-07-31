@@ -308,6 +308,12 @@ Now that University has started again, things are more busy. I'm also doing thre
 
 **Thoughts:** Slow progress on web dev bootcamp. But doing a little bit each day is definitely better than not doing it at all.
 
+### Day 46: 31 July
+
+**Today's Progress**: Continued Web dev bootcamp (unit 29: RESTful routing).
+
+**Thoughts:** Now there's more code from my university subjects, but I won't count those for 100 Days of Code.
+
 
 <!---
 Is this
