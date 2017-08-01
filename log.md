@@ -314,6 +314,14 @@ Now that University has started again, things are more busy. I'm also doing thre
 
 **Thoughts:** Now there's more code from my university subjects, but I won't count those for 100 Days of Code.
 
+Prelim
+
+### Day 47: 1 June (Tue)
+
+**Today's Progress**: Web dev bootcamp" (finished unit 29: RESTful routing).
+
+**Thoughts:**   There's another interesting looking course: fast.ai
+
 
 <!---
 Is this
