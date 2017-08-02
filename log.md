@@ -316,11 +316,17 @@ Now that University has started again, things are more busy. I'm also doing thre
 
 Prelim
 
-### Day 47: 1 June (Tue)
+### Day 47: 1 August (Tue)
 
-**Today's Progress**: Web dev bootcamp" (finished unit 29: RESTful routing).
+**Today's Progress**: Web dev bootcamp (finished unit 29: RESTful routing).
 
 **Thoughts:**   There's another interesting looking course: fast.ai
+
+### Day 48: 2 August
+
+**Today's Progress**: Web dev bootcamp (started unit 30: Data associations).
+
+**Thoughts:** I didn't do as much today because I was doing something else that went over time. I need to be more organised.
 
 
 <!---
