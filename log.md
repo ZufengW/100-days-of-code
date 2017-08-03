@@ -328,6 +328,12 @@ Prelim
 
 **Thoughts:** I didn't do as much today because I was doing something else that went over time. I need to be more organised.
 
+### Day 49: 3 August
+
+**Today's Progress**: Web dev bootcamp -- continued unit 30: Data associations. (Followed one video)
+
+**Thoughts:** Another busy day.
+
 
 <!---
 Is this
