@@ -334,6 +334,12 @@ Prelim
 
 **Thoughts:** Another busy day.
 
+### Day 50: 6 August
+
+**Today's Progress**: Web dev bootcamp -- continued unit 30: Data associations.
+
+**Thoughts:** I didn't do this for the past few days because I went on a camp. But now I'm home. Resuming the count today.
+
 
 <!---
 Is this
