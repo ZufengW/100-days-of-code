@@ -337,8 +337,16 @@ Prelim
 ### Day 50: 6 August
 
 **Today's Progress**: Web dev bootcamp -- continued unit 30: Data associations.
+Also redid my home page that I use for my Safari browser.
 
 **Thoughts:** I didn't do this for the past few days because I went on a camp. But now I'm home. Resuming the count today.
+
+### Day 51: 7 August
+
+**Today's Progress**: Web dev bootcamp -- finished unit 30: Data associations. Started unit 31: YelpCamp comments
+(Object references and moving models to separate files)
+
+**Thoughts:** It was fine. Looking forward to adding comments.
 
 
 <!---
