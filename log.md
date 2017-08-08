@@ -348,6 +348,13 @@ Also redid my home page that I use for my Safari browser.
 
 **Thoughts:** It was fine. Looking forward to adding comments.
 
+### Day 52: 8 August
+
+**Today's Progress**: Web dev bootcamp -- continued unit 31: YelpCamp comments. 
+Also made: http://codepen.io/ZufengW/pen/MvpbLe
+
+**Thoughts:** After hearing about the diamond-square algorithm, I thought it was interesting. So I made this visualisation in JS.
+
 
 <!---
 Is this
