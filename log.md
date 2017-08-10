@@ -355,6 +355,12 @@ Also made: http://codepen.io/ZufengW/pen/MvpbLe
 
 **Thoughts:** After hearing about the diamond-square algorithm, I thought it was interesting. So I made this visualisation in JS.
 
+### Day 53: 10 August
+
+**Today's Progress**: Web dev bootcamp -- continued unit 31: YelpCamp comments.
+
+**Thoughts:** I didn't do this yesterday. It was 1am and decided to go to sleep instead.
+When the assignments start rolling in, there'le be less time to do dinner.
 
 <!---
 Is this
