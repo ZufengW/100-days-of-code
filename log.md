@@ -362,6 +362,12 @@ Also made: http://codepen.io/ZufengW/pen/MvpbLe
 **Thoughts:** I didn't do this yesterday. It was 1am and decided to go to sleep instead.
 When the assignments start rolling in, there'le be less time to do dinner.
 
+### Day 54: 11 August
+
+**Today's Progress**: Web dev bootcamp -- continued unit 31: YelpCamp comments. (Creating comments)
+
+**Thoughts:** Doing this late again, but I should have time tomorrow.
+
 <!---
 Is this
 
