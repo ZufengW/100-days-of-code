@@ -360,7 +360,7 @@ Also made: http://codepen.io/ZufengW/pen/MvpbLe
 **Today's Progress**: Web dev bootcamp -- continued unit 31: YelpCamp comments.
 
 **Thoughts:** I didn't do this yesterday. It was 1am and decided to go to sleep instead.
-When the assignments start rolling in, there'le be less time to do dinner.
+When the assignments start rolling in, there'll be even less time.
 
 ### Day 54: 11 August
 
