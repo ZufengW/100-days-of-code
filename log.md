@@ -368,6 +368,12 @@ When the assignments start rolling in, there'll be even less time.
 
 **Thoughts:** Doing this late again, but I should have time tomorrow.
 
+### Day 55: 12 August (Sat)
+
+**Today's Progress**: Web dev bootcamp -- continued unit 31: YelpCamp comments.
+
+**Thoughts:** I'm certainly spending more days on each unit now. I'll try to finish this one tomorrow.
+
 <!---
 Is this
 
