@@ -374,6 +374,12 @@ When the assignments start rolling in, there'll be even less time.
 
 **Thoughts:** I'm certainly spending more days on each unit now. I'll try to finish this one tomorrow.
 
+### Day 56: 13 August (Sun)
+
+**Today's Progress**: Web dev bootcamp -- finished unit 31: YelpCamp comments
+
+**Thoughts:** Now each campground show page has a styled comments section.
+
 <!---
 Is this
 
