@@ -380,6 +380,12 @@ When the assignments start rolling in, there'll be even less time.
 
 **Thoughts:** Now each campground show page has a styled comments section.
 
+### Day 57: 14 August
+
+**Today's Progress**: Web dev bootcamp -- started unit 32: Authentication
+
+**Thoughts:** It is interesting to hear Colt's considerations on how to teach this topic. He chose to make this session quicker with the assistance of packages. The theory is lighter, but the working prototype gets built in less time. Then there's an optional unit near the end that does authentication in more depth from scratch. How would this structure of learning apply to different areas?
+
 <!---
 Is this
 
