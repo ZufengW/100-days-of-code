@@ -392,6 +392,13 @@ When the assignments start rolling in, there'll be even less time.
 
 **Thoughts:** Another late-ish night.
 
+### Day 59: 16 August
+
+**Today's Progress**: Web dev bootcamp -- continued unit 32: Authentication
+Now users can register.
+
+**Thoughts:** I considered skipping today because it was so late again (like last week), but I continued anyway. 
+
 <!---
 Is this
 
