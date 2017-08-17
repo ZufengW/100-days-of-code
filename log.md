@@ -399,6 +399,13 @@ Now users can register.
 
 **Thoughts:** I considered skipping today because it was so late again (like last week), but I continued anyway. 
 
+### Day 60: 17 August
+
+**Today's Progress**: Web dev bootcamp -- finished unit 32: Authentication
+Now users can log out.
+
+**Thoughts:** All this will be used in YelpCamp.
+
 <!---
 Is this
 
