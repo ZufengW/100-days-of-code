@@ -406,6 +406,12 @@ Now users can log out.
 
 **Thoughts:** All this will be used in YelpCamp.
 
+### Day 61: 18 August
+
+**Today's Progress**: Web dev bootcamp -- started unit 33: Adding authentication to YelpCamp.
+
+**Thoughts:** So many packages and strange methods. Maybe I should read the docs for each module.
+
 <!---
 Is this
 
