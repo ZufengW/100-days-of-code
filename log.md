@@ -412,6 +412,12 @@ Now users can log out.
 
 **Thoughts:** So many packages and strange methods. Maybe I should read the docs for each module.
 
+### Day 62: 19 August
+
+**Today's Progress**: Web dev bootcamp -- continued unit 33: 
+
+**Thoughts:** Lots of logs scene
+
 <!---
 Is this
 
