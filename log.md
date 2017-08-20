@@ -418,7 +418,7 @@ Now users can log out.
 
 **Thoughts:** Lots of logs scene
 
-### Day 63: 10 August
+### Day 63: 20 August
 
 **Today's Progress**: Web dev bootcamp -- finished unit 33: Adding authentication to YelpCamp.
 Now only logged-in users can post comments.
