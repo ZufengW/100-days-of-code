@@ -426,6 +426,13 @@ Now only logged-in users can post comments.
 **Thoughts:** (I'm not even sure what the thing I wrote yesterday for "Thoughts" is supposed to mean.)
 Recently I started keeping a list of features that could be added to the bootcamp projects. They might not get covered in the course but adding them would be good practice. E.g. show messages such as "username already exists" to the user and disallow usernames containing non alphanumeric characters.
 
+### Day 64: 21 August
+
+**Today's Progress**: Web dev bootcamp -- started unit 34: Cleaning up YelpCamp.
+Refactoring the code in app.js
+
+**Thoughts:** Practical stuff. 
+
 <!---
 Is this
 
