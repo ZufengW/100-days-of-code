@@ -433,6 +433,13 @@ Refactoring the code in app.js
 
 **Thoughts:** Practical stuff. 
 
+### Day 65: 22 August
+
+**Today's Progress**: Web dev bootcamp -- continued unit 34: Cleaning up YelpCamp.
+Now comments just show the user's username as the author.
+
+**Thoughts:** So much stuff. So little time.
+
 <!---
 Is this
 
