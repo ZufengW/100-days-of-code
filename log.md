@@ -440,6 +440,12 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** So much stuff. So little time.
 
+### Day 66: 23 August (Wed)
+
+**Today's Progress**: Web dev bootcamp -- continued unit 34: Cleaning up YelpCamp. I'll finish this unit tomorrow.
+
+**Thoughts:** I need to change when I do this. On days such as today (Wed) and Monday, I should do this at the start of the day (instead of at the end). When leaving it til the end, I always end up losing sleep
+
 <!---
 Is this
 
