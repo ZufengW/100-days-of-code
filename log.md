@@ -446,6 +446,13 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** I need to change when I do this. On days such as today (Wed) and Monday, I should do this at the start of the day (instead of at the end). When leaving it til the end, I always end up losing sleep
 
+
+### Day 67: 24 August
+
+**Today's Progress**: Web dev bootcamp -- finished unit 34: Cleaning up YelpCamp. Started unit 35: update and destroy
+
+**Thoughts:** Soon there'll be edit and update routes for the campgrounds.
+
 <!---
 Is this
 
