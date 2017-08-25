@@ -453,6 +453,13 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** Soon there'll be edit and update routes for the campgrounds.
 
+### Day 68: 25 August
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 35: update and destroy. Adding the edit and update routes.
+
+**Thoughts:** I think at some point I introduced a mistake that's causing a "CastError". I'll need to figure out where it is.
+
+
 <!---
 Is this
 
