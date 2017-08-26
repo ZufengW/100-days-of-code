@@ -459,6 +459,12 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** I think at some point I introduced a mistake that's causing a "CastError". I'll need to figure out where it is.
 
+### Day 69: 26 August
+
+**Today's Progress**: Tried fixing some issues encountered yesterday.
+
+**Thoughts:** It might be better now. Maybe.
+
 
 <!---
 Is this
