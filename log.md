@@ -465,6 +465,12 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** It might be better now. Maybe.
 
+### Day 70: 27 August
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 35: Update and destroy. Now there are buttons to do both, but anyone can edit and delete at the moment.
+
+**Thoughts:** I didn't encounter the issue from yesterday anymore.
+
 
 <!---
 Is this
