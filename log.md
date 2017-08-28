@@ -471,6 +471,12 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** I didn't encounter the issue from yesterday anymore.
 
+### Day 71: 28 August
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 35: Update and destroy. Authorisation. Now only the owner of a campground can edit and delete it.
+
+**Thoughts:** Things are getting busy.
+
 
 <!---
 Is this
