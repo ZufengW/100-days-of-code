@@ -477,6 +477,12 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** Things are getting busy.
 
+### Day 72: 29 August
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 35: Update and destroy. Now we're adding the same routes, but to comments.
+
+**Thoughts:** I will finish this tomorrow morning.
+
 
 <!---
 Is this
