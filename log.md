@@ -483,6 +483,12 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** I will finish this tomorrow morning.
 
+### Day 73: 31 August (Thur)
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 35: Update and destroy. 
+
+**Thoughts:** I'm pretty busy at the moment (and I skipped a day yesterday).
+
 
 <!---
 Is this
