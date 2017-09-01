@@ -489,6 +489,13 @@ Now comments just show the user's username as the author.
 
 **Thoughts:** I'm pretty busy at the moment (and I skipped a day yesterday).
 
+### Day 74: 1 September (Fri)
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 35: Update and destroy. Can delete comments now.
+Also spent some time fixing stuff from yesterday. I definitely make more weird mistakes while drowsy. Working like that is inefficient.
+
+**Thoughts:** This time for sure. I'll finish this unit tomorrow.
+
 
 <!---
 Is this
