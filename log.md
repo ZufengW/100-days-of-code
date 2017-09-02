@@ -496,6 +496,12 @@ Also spent some time fixing stuff from yesterday. I definitely make more weird m
 
 **Thoughts:** This time for sure. I'll finish this unit tomorrow.
 
+### Day 75: 2 September
+
+**Today's Progress**: Web dev bootcamp -- Finished unit 35: Update and destroy. Now have to be logged in to update/delete comments. Started unit 36.
+
+**Thoughts:** There aren't many units left.
+
 
 <!---
 Is this
