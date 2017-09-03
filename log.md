@@ -502,6 +502,13 @@ Also spent some time fixing stuff from yesterday. I definitely make more weird m
 
 **Thoughts:** There aren't many units left.
 
+### Day 76: 3 September
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 36: UI improvements. Flash messages show up on some pages now.
+
+**Thoughts:** Looks like [connect-flash](https://github.com/jaredhanson/connect-flash) hasn't been updated in a while.
+And I got a new laptop today!
+
 
 <!---
 Is this
