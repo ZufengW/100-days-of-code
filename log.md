@@ -510,6 +510,12 @@ Also spent some time fixing stuff from yesterday. I definitely make more weird m
 And I got a new laptop today!
 
 
+### Day 77: 4 September
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 36: UI improvements. (worked through Flash messages: helpful errors)
+
+**Thoughts:** I would like to finish the course by the end of these 100 days. It's been slow progress over the past few weeks, but I'll make it if I spend my time well.
+
 <!---
 Is this
 
