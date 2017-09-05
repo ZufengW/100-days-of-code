@@ -516,6 +516,12 @@ And I got a new laptop today!
 
 **Thoughts:** I would like to finish the course by the end of these 100 days. It's been slow progress over the past few weeks, but I'll make it if I spend my time well.
 
+### Day 78: 5 September
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 36. Started refactor of landing page.
+
+**Thoughts:** Doing it now (after 11pm) doesn't feel very efficient today. I'll aim to finish this unit first thing tomorrow morning.
+
 <!---
 Is this
 
