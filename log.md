@@ -522,6 +522,12 @@ And I got a new laptop today!
 
 **Thoughts:** Doing it now (after 11pm) doesn't feel very efficient today. I'll aim to finish this unit first thing tomorrow morning.
 
+### Day 79: 6 September (Wed)
+
+**Today's Progress**: Web dev bootcamp -- Finished unit 36. Price is now another campground attribute.
+
+**Thoughts:** I did end up doing this in the morning. It was good. I should aim to do this kind of stuff on more Wednesday mornings. 
+
 <!---
 Is this
 
