@@ -528,6 +528,12 @@ And I got a new laptop today!
 
 **Thoughts:** I did end up doing this in the morning. It was good. I should aim to do this kind of stuff on more Wednesday mornings. 
 
+### Day 80: 7 September
+
+**Today's Progress**: Web dev bootcamp -- Started unit 37: Git
+
+**Thoughts:** I had never really gotten around to learning Git until now. 
+
 <!---
 Is this
 
