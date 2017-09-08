@@ -534,6 +534,12 @@ And I got a new laptop today!
 
 **Thoughts:** I had never really gotten around to learning Git until now. 
 
+### Day 81: 8 September (Fri)
+
+**Today's Progress**: Web dev bootcamp -- Finished unit 37: Git
+
+**Thoughts:** This unit has yet to be completed. They didn't talk about GitHub or branching, etc. There are plenty of other resources online though.
+
 <!---
 Is this
 
