@@ -540,6 +540,12 @@ And I got a new laptop today!
 
 **Thoughts:** This unit has yet to be completed. They didn't talk about GitHub or branching, etc. There are plenty of other resources online though.
 
+### Day 82: 9 September
+
+**Today's Progress**: Web dev bootcamp -- Started unit 38: Deploying
+
+**Thoughts:** Looking forward to deploying YelpCamp
+
 <!---
 Is this
 
