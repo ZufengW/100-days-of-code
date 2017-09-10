@@ -546,6 +546,16 @@ And I got a new laptop today!
 
 **Thoughts:** Looking forward to deploying YelpCamp
 
+### Day 83: 10 September
+
+**Today's Progress**: Web dev bootcamp -- Finished unit 38: Deploying
+YelpCamp is deployed to [https://powerful-journey-99097.herokuapp.com](https://powerful-journey-99097.herokuapp.com)
+
+I also added an additional feature restricting the types of characters that can be used in a username. Previously, it was possible to have usernames containing only spaces.
+
+**Thoughts:** Now the app should be available 24/7. Both the app and the database are hosted using free plans, but it's a big leap forward compared to running on C9.
+
+
 <!---
 Is this
 
