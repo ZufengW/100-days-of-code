@@ -555,6 +555,13 @@ I also added an additional feature restricting the types of characters that can 
 
 **Thoughts:** Now the app should be available 24/7. Both the app and the database are hosted using free plans, but it's a big leap forward compared to running on C9.
 
+### Day 84: 11 September
+
+**Today's Progress**: Web dev bootcamp -- Started unit 39: JS: the tricky stuff.
+I'm finding this quite interesting so far.
+
+**Thoughts:** This is the current last main unit in the course.
+
 
 <!---
 Is this
