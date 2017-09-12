@@ -562,6 +562,13 @@ I'm finding this quite interesting so far.
 
 **Thoughts:** This is the current last main unit in the course.
 
+### Day 85: 12 September
+
+**Today's Progress**: Web dev bootcamp -- Continued unit 39: JS: the tricky stuff -- OOP.
+This OOP section has overlap with the OOP I've been learning in relation to Java. Again quite interesting. I may have to refactor my JS code on codepen at some point.
+
+**Thoughts:** I might be able to finish this section tomorrow.
+
 
 <!---
 Is this
