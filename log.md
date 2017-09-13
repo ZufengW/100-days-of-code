@@ -569,6 +569,12 @@ This OOP section has overlap with the OOP I've been learning in relation to Java
 
 **Thoughts:** I might be able to finish this section tomorrow.
 
+### Day 86: 13 September
+
+**Today's Progress**: Web dev bootcamp -- Finished unit 39: JS: the tricky stuff. Prototypes, closures. I might need to see more examples of closures in use, but these topics weren't that difficult to grasp. 
+
+**Thoughts:** That was the last section in the course (for now). I'm pretty happy that I got to the end. I might as well go back and finish that optional Patatap project to get the certificate of completion. But where to from there? There are a bunch of paths I could take.
+
 
 <!---
 Is this
