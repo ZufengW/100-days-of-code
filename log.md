@@ -575,13 +575,21 @@ This OOP section has overlap with the OOP I've been learning in relation to Java
 
 **Thoughts:** That was the last section in the course (for now). I'm pretty happy that I got to the end. I might as well go back and finish that optional Patatap project to get the certificate of completion. But where to from there? There are a bunch of paths I could take.
 
-### Day 87: 14 September
+### Day 87: 15 September
 
 **Today's Progress**: Web dev bootcamp -- Started unit 19: Patatap Clone
 
 **Thoughts:** This time I'll try commiting it to GitHub as I go along.
 
 https://github.com/ZufengW/patatap-clone/commit/efa348d7569fc821fd9fced88a7030b944a31cc0
+
+### Day 88: 15 September
+
+**Today's Progress**: Continued web dev bootcamp -- unit 19
+
+**Thoughts:** Sleepy at this time of the day
+
+https://github.com/ZufengW/patatap-clone/commit/2bab01cbc5e7f8c4e966667f080938f21bd0ec07
 
 <!---
 Is this
