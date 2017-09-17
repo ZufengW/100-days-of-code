@@ -591,6 +591,13 @@ https://github.com/ZufengW/patatap-clone/commit/efa348d7569fc821fd9fced88a7030b9
 
 https://github.com/ZufengW/patatap-clone/commit/2bab01cbc5e7f8c4e966667f080938f21bd0ec07
 
+### Day 89: 17 September
+
+**Today's Progress**: Continued web dev bootcamp -- unit 19
+
+**Thoughts:** I ended up skipping yesterday. I'll try finish this tomorrow.
+
+
 <!---
 Is this
 
