@@ -575,7 +575,7 @@ This OOP section has overlap with the OOP I've been learning in relation to Java
 
 **Thoughts:** That was the last section in the course (for now). I'm pretty happy that I got to the end. I might as well go back and finish that optional Patatap project to get the certificate of completion. But where to from there? There are a bunch of paths I could take.
 
-### Day 87: 15 September
+### Day 87: 14 September
 
 **Today's Progress**: Web dev bootcamp -- Started unit 19: Patatap Clone
 
@@ -597,6 +597,18 @@ https://github.com/ZufengW/patatap-clone/commit/2bab01cbc5e7f8c4e966667f080938f2
 
 **Thoughts:** I ended up skipping yesterday. I'll try finish this tomorrow.
 
+
+### Day 90: 18 September
+
+**Today's Progress**: Web dev bootcamp -- finished unit 19
+
+Commit to finished version: https://github.com/ZufengW/patatap-clone/commit/9442143261b212f8c419566f60593104d9ec156a
+
+**Thoughts:** That's all the course content done. Finally complete after so many days. [Certificate of completion](https://www.udemy.com/certificate/UC-OFMGV5M3/).
+
+Where next? I could continue another online course. There's a Python course that I started a while back but never finished. I've actually been using Python in the past few weeks, so getting a more in-depth knowledge (e.g. of the OOP) would help.
+I could also continue the same course. There's extra material such as more stuff about YelpCamp and Git.
+I could also try building other things. I am quite busy though.
 
 <!---
 Is this
