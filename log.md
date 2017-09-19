@@ -610,6 +610,12 @@ Where next? I could continue another online course. There's a Python course that
 I could also continue the same course. There's extra material such as more stuff about YelpCamp and Git.
 I could also try building other things. I am quite busy though.
 
+### Day 91: 19 September (Tue)
+
+**Today's Progress**: Started Unit 2 (Number Wizard) of [C# Unity Developer](https://www.udemy.com/unitycourse/learn/v4/overview) course
+
+**Thoughts:** This is another course on Udemy that I bought some time ago on sale. Buying courses is easy and not very expensive (~$20 AUD each when on sale). The main cost is the time and effort to actually do it. I'm going to study this particular course for a while because it should help with a current school project.
+
 <!---
 Is this
 
