@@ -616,6 +616,13 @@ I could also try building other things. I am quite busy though.
 
 **Thoughts:** This is another course on Udemy that I bought some time ago on sale. Buying courses is easy and not very expensive (~$20 AUD each when on sale). The main cost is the time and effort to actually do it. I'm going to study this particular course for a while because it should help with a current school project.
 
+### Day 92: 22 September (Fri)
+
+**Today's Progress**: Continued Unit 2 (Number Wizard) of [C# Unity Developer](https://www.udemy.com/unitycourse/learn/v4/overview) course
+
+**Thoughts:** I skipped the last two days due to being busy with assignments...
+This unit is quite simple, but I'll finish it soon and move to the next.
+
 <!---
 Is this
 
