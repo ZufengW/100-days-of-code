@@ -623,6 +623,12 @@ I could also try building other things. I am quite busy though.
 **Thoughts:** I skipped the last two days due to being busy with assignments...
 This unit is quite simple, but I'll finish it soon and move to the next.
 
+### Day 93: 23 September
+
+**Today's Progress**: C# Unity Developer: Finished unit 2 (number wizard). Started unit 3 (text adventure 101)
+
+**Thoughts:** The part about debugging was nice. It mentioned rubber duck debugging, assumptions, minimum viable test case and the scientific method. It reminded me of how I tried fixing a problem last Sunday.
+
 <!---
 Is this
 
