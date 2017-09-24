@@ -627,7 +627,14 @@ This unit is quite simple, but I'll finish it soon and move to the next.
 
 **Today's Progress**: C# Unity Developer: Finished unit 2 (number wizard). Started unit 3 (text adventure 101)
 
-**Thoughts:** The part about debugging was nice. It mentioned rubber duck debugging, assumptions, minimum viable test case and the scientific method. It reminded me of how I tried fixing a problem last Sunday.
+**Thoughts:** The part about debugging was nice. It mentioned rubber duck debugging, assumptions, minimum viable test case and the scientific method. It reminded me of how I tried fixing a problem last Sunday.\
+
+### Day 94: 24 September
+
+**Today's Progress**: C# Unity Developer: Continued unit 3 (text adventure 101)
+
+**Thoughts:** I'll finish this tomorrow.
+
 
 <!---
 Is this
