@@ -635,6 +635,14 @@ This unit is quite simple, but I'll finish it soon and move to the next.
 
 **Thoughts:** I'll finish this tomorrow.
 
+### Day 95: 25 September
+
+**Today's Progress**: C# Unity Developer: Continued unit 3 (text adventure 101)
+
+**Thoughts:** Haven't finished the unit yet. I misjudged how long it would take. 
+
+There's a lot of duplicate code. Surely there's a better way. A switch statement could be a slight improvement. Or some large object if this was in JS.
+
 
 <!---
 Is this
