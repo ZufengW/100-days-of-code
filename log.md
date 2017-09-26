@@ -643,6 +643,12 @@ This unit is quite simple, but I'll finish it soon and move to the next.
 
 There's a lot of duplicate code. Surely there's a better way. A switch statement could be a slight improvement. Or some large object if this was in JS.
 
+### Day 96: 26 September
+
+**Today's Progress**: C# Unity Developer: End of unit 3 (text adventure 101)
+
+**Thoughts:** I got to the end of the unit, but I skipped making my own story and uploading it. Those are major parts, but I want to move on to more advanced theory. Maybe I'll revisit this later.
+
 
 <!---
 Is this
