@@ -655,7 +655,14 @@ There's a lot of duplicate code. Surely there's a better way. A switch statement
 
 **Thoughts:** More stuff. I think the course will only start to get interesting at unit 7 (or at least 5), but I'll get through this section first.
 
-I also have an idea for a web app that applies some of the stuff from the Web Dev Bootcamp. I may try implemting it some day when I am less busy...
+I also have an idea for a web app that applies some of the stuff from the Web Dev Bootcamp. I may try implementing it some day when I am less busy...
+
+
+### Day 98: 28 September
+
+**Today's Progress**: C# Unity Developer: Continued unit 4 (Number Wizard UI)
+
+**Thoughts:** Again, studying this late at night has limited effectiveness. I'll try finish this tomorrow morning.
 
 
 <!---
