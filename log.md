@@ -657,13 +657,18 @@ There's a lot of duplicate code. Surely there's a better way. A switch statement
 
 I also have an idea for a web app that applies some of the stuff from the Web Dev Bootcamp. I may try implementing it some day when I am less busy...
 
-
 ### Day 98: 28 September
 
 **Today's Progress**: C# Unity Developer: Continued unit 4 (Number Wizard UI)
 
 **Thoughts:** Again, studying this late at night has limited effectiveness. I'll try finish this tomorrow morning.
 
+### Day 99: 29 September
+
+**Today's Progress**: C# Unity Developer: Finished unit 4 (Number Wizard UI)
+
+**Thoughts:** It wasn't very challenging to build, but I learned a bit. I also uploaded the game to [gamebucket.io](https://gamebucket.io/game/874ce3c7-18c5-42ab-bd35-decacd0ad939). (It will stay live for 30 days)
+Starting from next section, the projects will be more graphical, which should be more interesting. 
 
 <!---
 Is this
