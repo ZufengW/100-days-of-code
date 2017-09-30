@@ -670,6 +670,18 @@ I also have an idea for a web app that applies some of the stuff from the Web De
 **Thoughts:** It wasn't very challenging to build, but I learned a bit. I also uploaded the game to [gamebucket.io](https://gamebucket.io/game/874ce3c7-18c5-42ab-bd35-decacd0ad939). (It will stay live for 30 days)
 Starting from next section, the projects will be more graphical, which should be more interesting. 
 
+### Day 100: 30 September (Sat)
+
+**Today's Progress**: C# Unity Developer: Start unit 5 (Block Breaker)
+
+**Thoughts:** It's day 100, so I'll write a bit extra. As shown by this log, the 100 days was mostly spent on [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/content) and then [Unity Developer](https://www.udemy.com/unitycourse/learn/v4/content), both courses on Udemy. I bought those courses a while back during one of their >90% off sales. I think they're good value considering the content to cost ratio. Anyway, (when on discount), buying the course is the easy part. The main cost and difficulty is actually putting in the time and effort to finish it. That's why I started this 100 days thing in the first place. This log and the [Twitter posts](https://twitter.com/search?f=tweets&vertical=default&q=%40ZufengW%20%23100DaysOfCode&src=typd) helped to keep me accountable and it eventually got to the stage of habit formation where it would feel weirder to not do the daily code. And even though it took many days, by doing a bit each day and doing it consistently, it is possible to complete something substantial like a self-paced online course. You can't cram that.
+
+Note: doing study after midnight is not really a good idea. Best to avoid this.
+
+Next steps would be to apply the concepts from these courses in outside projects.
+
+Now that 100 days have passed, I will continue doing a bit of non-school/work-related coding each day. But I'll probably stop posting on Twitter for now.
+
 <!---
 Is this
 
